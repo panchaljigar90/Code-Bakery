@@ -1,6 +1,6 @@
 
 ![](http://www.circos.ca/img/circos-wordle.png)
-### About Me
+## About Me
 
 ## **Vijay Lakhujani**
 
