@@ -12,7 +12,7 @@
 
 ☛      Masters in Bioinformatics with 4+ years of experience in microarray/library probe design,image analysis, data analysis for CGH, ChIP and CH3 arrays.
 
-☛     2.5 years of experience of next generation sequencing data analysis software from one of the global leaders.
+☛     3+ years of experience of next generation sequencing data analysis software from one of the global leaders.
 
 ☛     Skilled in working with commercial/open source software for microarray and NGS end-to-end data analysis, from raw sequencing data to variant reporting. Whole genome,transcriptome, 16S rRNA NGS data analysis, de novo assembly tools & algorithms, assembly validation and downstream data processing.
 
