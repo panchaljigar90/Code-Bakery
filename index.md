@@ -1,28 +1,25 @@
+## Howdy!
 
-![](http://www.circos.ca/img/circos-wordle.png)
+My name is **Vijay Lakhujani** and I am a bioinformatician with deep interest in *Genomics*, specially in *next generation sequencing techniques* (NGS). I enjoy [programming](http://rosalind.info/users/lakhujanivijay2/) and I usually code in <a href="https://sourcerer.io/lakhujanivijay"><img src="https://img.shields.io/badge/Python-183%20commits-orange.svg" alt=""></a>  <a href="https://sourcerer.io/lakhujanivijay"><img src="https://img.shields.io/badge/Perl-36%20commits-orange.svg" alt=""></a> <a href="https://sourcerer.io/lakhujanivijay"><img src="https://img.shields.io/badge/R-28%20commits-orange.svg" alt=""></a> and <a href="https://sourcerer.io/lakhujanivijay"><img src="https://img.shields.io/badge/Shell-44%20commits-orange.svg" alt=""></a>. Programming is so much fun!
 
-## About Me
+#### Click on me <a href="https://sourcerer.io/lakhujanivijay"><img src="https://avatars3.githubusercontent.com/u/9314053?v=4" height="50px" width="50px" alt=""/></a> to have a look at my programming stats.
 
-## **Vijay Lakhujani**
+I also try to learn technical stuff with the help of MOOCs. I believe the best way to keep yourself updated is to keep learning. I also write sometimes on technical and non technical stuff. You can check out some of my articles on <a href="https://www.linkedin.com/in/lakhujanivijay/detail/recent-activity/posts/">LinkedIn</a>.</li>
 
- ❝ A biologist by passion, a bioinformatician by profession❞
+I am also a [moderator](https://www.biostars.org/u/26377/) at [biostars.org](https://www.biostars.org) which is a huge and popular bioinformatics Q & A forum. Additionally, I am a [curator](https://omictools.com/community) for [omicstools.com](https://omictools.com) which is a database of wide range of resources in multi-omics fields and provide powerful filters to help instantly spot the key features.
 
-☛     Genomics Domain Specialization: NET-JRF, GATE, BINC qualified.
+I love making new friends and discussing ideas.
+### Let's connect !
 
-☛     Certified bioinformatician (by Dept. of Biotechnology, Govt. of India), All India Rank 18, BINC 2012 (http://www.pondiuni.edu.in/exams/binc/rs2012.html).
+<p><a  /></a><a href="https://in.linkedin.com/in/lakhujanivijay"><img alt="" src="https://github.com/Xcelris-Labs-Ltd/Publication-ready-taxonomic-charts-from-QIIME/blob/master/supplementary_files/LinkedIn.png?raw=true" /></a><a href="http://www.twitter.com/vijay_lakhujani"><img alt="" src="http://i.imgur.com/tXSoThF.png" /></a><a href="http://www.facebook.com/mylifepages"><img alt="" src="http://i.imgur.com/P3YfQoD.png" /></a><a href="https://plus.google.com/+VIJAYLAKHUJANI"><img alt="" src="http://i.imgur.com/yCsTjba.png" /></a> <a href="https://github.com/lakhujanivijay"><img alt="" src="https://assets-cdn.github.com/favicon.ico" style="height:28px; width:28px" /></a>&nbsp;</p> 
 
-☛      Masters in Bioinformatics with 4+ years of experience in microarray/library probe design,image analysis, data analysis for CGH, ChIP and CH3 arrays.
+---------
 
-☛     3+ years of experience of next generation sequencing data analysis software from one of the global leaders.
+### About this repository
 
-☛     Skilled in working with commercial/open source software for microarray and NGS end-to-end data analysis, from raw sequencing data to variant reporting. Whole genome,transcriptome, 16S rRNA NGS data analysis, de novo assembly tools & algorithms, assembly validation and downstream data processing.
+This repository consists of specific bioinformatics problems solved by writing small scripts; majority of them in Python. The problems have been taken from open platforms like [Rosalind](http://rosalind.info/problems). Some of the scripts are solutions to my day-to-day challenges while working. 
 
-☛     Sound knowledge of open source tools for data visualization and interpretation. Comfortable with working on Linux platform & HPC.
+----
 
-### Authors and Contributors
 
-Author:Vijay Lakhujani
 
-Github: @lakhujanivijay
-
-Linkedin: https://in.linkedin.com/in/lakhujanivijay
